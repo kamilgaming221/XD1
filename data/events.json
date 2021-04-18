@@ -1,0 +1,1 @@
+[null,{"name":"bot","temp":"bot","event-type":"5","_id":"UREVj","actions":[{"channel":"4","varName":"","message":"wyszedł z servera bot ","storage":"0","varName2":"","name":"Send Message"}]},{"name":"bot1","temp":"","event-type":"4","_id":"EltCj","actions":[{"channel":"4","varName":"","message":"Janusz wszedł na server","storage":"0","varName2":"","name":"Send Message"}]}]
